@@ -100,8 +100,8 @@
       "company": "University of Hawaii Cancer Center",
       "position": "Research Assistant",
       "website": "",
-      "startDate": "August 2020",
-      "endDate": "December 2020",
+      "startDate": "August2020",
+      "endDate": "December2020",
       "summary": "",
       "highlights": [
         "Transfer data into the computer"
@@ -121,8 +121,7 @@
       "awarder": "",
       "summary": "",
       "highlights": [
-        "Spring 2020",
-        "Fall 2020"
+        "Spring 2020, Fall 2020"
         ]
     }
   ],
