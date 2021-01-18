@@ -1,131 +1,135 @@
 {
-  "basics": {
-    "name": "Jordan Chen",
-    "label": "Shidler Undergraduate",
-    "picture": "https://jordanwc.github.io/images/DSC06599.jpg",
-    "email": "jordanwc@hawaii.edu",
-    "phone": "",
-    "website": "https://jordanwc.github.io",
-    "summary": "I am studying for a B.B.A in Management Information Systems in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "96816",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "jordanwc",
-        "url": "http://github.com/jordanwc"
+   "basics":{
+      "name":"Jordan Chen",
+      "label":"Shidler Undergraduate",
+      "picture":"https://jordanwc.github.io/images/DSC06599.jpg",
+      "email":"jordanwc@hawaii.edu",
+      "phone":"",
+      "website":"https://jordanwc.github.io",
+      "summary":"I am studying for a B.B.A in Management Information Systems in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Spring, 2022.",
+      "location":{
+         "address":"",
+         "postalCode":"96816",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
       },
-    ]
-  },
-  "interests": [
-    {
-      "name": "Basketball",
-      "keywords": [
+      "profiles":[
+         {
+            "network":"github",
+            "username":"jordanwc",
+            "url":"http://github.com/jordanwc"
+         }
       ]
-    },
-    {
-      "name": "Gaming",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Listening to music",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "English",
-        "Mandarin Chinese"
-      ]
-    },
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": [
-        "Word",
-        "Excel",
-        "Powerpoint"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems",
-      "studyType": "B.B.A",
-      "startDate": "2018",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Cafe Lani",
-      "position": "Host",
-      "website": "",
-      "startDate": "2017",
-      "endDate": "2018",
-      "summary": "",
-      "highlights": [
-        "Greet people as they come in",
-        "Direct guests to their seats",
-      ]
-    },
+   },
+   "interests":[
       {
-      "company": "UNiCASE",
-      "position": "Sales Associate",
-      "website": "",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "",
-      "highlights": [
-        "Handling checkout",
-        "Assisting customers with questions",
-        "Organizing and restocking products",
-      ]
-    },
-     {
-      "company": "University of Hawaii Cancer Center",
-      "position": "Research Assistant",
-      "website": "",
-      "startDate": "2020",
-      "endDate": "2020",
-      "summary": "",
-      "highlights": [
-        "Transfer data into the computer"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2018-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "Dean's List",
-      "date": "",
-      "award": "",
-      "summary": "Spring 2020, Fall 2020", 
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+         "name":"Basketball",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Gaming",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Listening to music",
+         "keywords":[
+            
+         ]
+      }
+   ],
+   "skills":[
+      {
+         "name":"Languages and Frameworks",
+         "level":"",
+         "keywords":[
+            "English",
+            "Mandarin Chinese"
+         ]
+      },
+      {
+         "name":"Microsoft Office",
+         "level":"",
+         "keywords":[
+            "Word",
+            "Excel",
+            "Powerpoint"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Management Information Systems",
+         "studyType":"B.B.A",
+         "startDate":"2018",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Cafe Lani",
+         "position":"Host",
+         "website":"",
+         "startDate":"2017",
+         "endDate":"2018",
+         "summary":"",
+         "highlights":[
+            "Greet people as they come in",
+            "Direct guests to their seats"
+         ]
+      },
+      {
+         "company":"UNiCASE",
+         "position":"Sales Associate",
+         "website":"",
+         "startDate":"2019",
+         "endDate":"2020",
+         "summary":"",
+         "highlights":[
+            "Handling checkout",
+            "Assisting customers with questions",
+            "Organizing and restocking products"
+         ]
+      },
+      {
+         "company":"University of Hawaii Cancer Center",
+         "position":"Research Assistant",
+         "website":"",
+         "startDate":"2020",
+         "endDate":"2020",
+         "summary":"",
+         "highlights":[
+            "Transfer data into the computer"
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"B+ Scholarship",
+         "date":"2018-Present",
+         "awarder":"State of Hawaii",
+         "summary":"Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      },
+      {
+         "title":"Dean's List",
+         "date":"",
+         "award":"",
+         "summary":"Spring 2020, Fall 2020"
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
