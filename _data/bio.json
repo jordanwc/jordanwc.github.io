@@ -91,8 +91,8 @@
       "endDate": "January 2020"
       "summary": "",
       "highlights": [
-        "Handling checkout"
-        "Assisting customers with questions"
+        "Handling checkout",
+        "Assisting customers with questions",
         "Organizing and restocking products"
       ]
     },
@@ -102,7 +102,7 @@
       "website": "",
       "startDate": "August 2020",
       "endDate": "December 2020",
-      "summary": ""
+      "summary": "",
       "highlights": [
         "Transfer data into the computer"
       ]
@@ -121,7 +121,8 @@
       "awarder": "",
       "summary": "",
       "highlights": [
-        "Spring 2020, Fall 2020"
+        "Spring 2020",
+        "Fall 2020"
         ]
     }
   ],
